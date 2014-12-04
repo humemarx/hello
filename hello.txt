@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sdfdffffffffffffffffffffffff
 增加这是20141204
+=======
+dgfdfghgfh
+>>>>>>> parent of 8c0985d... 淇敼
